@@ -13,3 +13,14 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+arxiv
+# HAVENT USED NEXT 2 YET:
+groq
+cassio
+langchain-groq
+wikipedia
+langchainhub
+langchain-tools
+ollama
+llama-index-readers-wikipedia
+llama-index-llms-openai
